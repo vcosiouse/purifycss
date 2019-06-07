@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<head>
+	<title>Steps 1</title>
+	
+
+	<link rel="stylesheet" href="http://www.workuse.com/pruebas/stepsflow/01/css/mdb.css">
+</head>
+
+
+
+<body>
+<!-- Vertical Steppers -->
+<div class="row mt-1">
+  <div class="col-md-12">
+
+    <!-- Stepers Wrapper -->
+    <ul class="stepper stepper-vertical">
+
+      <!-- First Step -->
+      <li class="completed">
+        <a href="#!">
+          <span class="circle">1</span>
+          <span class="label">First step</span>
+        </a>
+         <!-- Section Description -->
+        <div class="step-content grey lighten-3">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse cupiditate voluptate facere
+            iusto
+            quaerat
+            vitae excepturi, accusantium ut aliquam repellat atque nesciunt nostrum similique. Inventore
+            nostrum
+            ut,
+            nobis porro sapiente.</p>
+        </div>
+      </li>
+
+      <!-- Second Step -->
+      <li class="completed">
+
+        <!--Section Title -->
+        <a href="#!">
+          <span class="circle">2</span>
+          <span class="label">Second step</span>
+        </a>
+
+        <!-- Section Description -->
+        <div class="step-content grey lighten-3">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse cupiditate voluptate facere
+            iusto
+            quaerat
+            vitae excepturi, accusantium ut aliquam repellat atque nesciunt nostrum similique. Inventore
+            nostrum
+            ut,
+            nobis porro sapiente.</p>
+        </div>
+      </li>
+
+      <!-- Third Step -->
+      <li class="completed">
+        <a href="#!">
+          <span class="circle">3</span>
+          <span class="label">Third step</span>
+        </a>
+        <!-- Section Description -->
+        <div class="step-content grey lighten-3">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse cupiditate voluptate facere
+            iusto
+            quaerat
+            vitae excepturi, accusantium ut aliquam repellat atque nesciunt nostrum similique. Inventore
+            nostrum
+            ut,
+            nobis porro sapiente.</p>
+        </div>
+      </li>
+
+      <!-- Fourth Step -->
+      <li class="completed">
+        <a href="#!">
+          <span class="circle">4</span>
+          <span class="label">Fourth step</span>
+        </a>
+        <!-- Section Description -->
+        <div class="step-content grey lighten-3">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse cupiditate voluptate facere
+            iusto
+            quaerat
+            vitae excepturi, accusantium ut aliquam repellat atque nesciunt nostrum similique. Inventore
+            nostrum
+            ut,
+            nobis porro sapiente.</p>
+        </div>
+      </li>
+
+      <!-- Fith Step -->
+      <li class="completed">
+        <a href="#!">
+          <span class="circle">5</span>
+          <span class="label">Fifth step</span>
+        </a>
+        <!-- Section Description -->
+        <div class="step-content grey lighten-3">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse cupiditate voluptate facere
+            iusto
+            quaerat
+            vitae excepturi, accusantium ut aliquam repellat atque nesciunt nostrum similique. Inventore
+            nostrum
+            ut,
+            nobis porro sapiente.</p>
+        </div>
+      </li>
+    </ul>
+    <!-- /.Stepers Wrapper -->
+
+  </div>
+</div>
+
+<!-- /.Vertical Steppers -->
+</body>
+</html>
